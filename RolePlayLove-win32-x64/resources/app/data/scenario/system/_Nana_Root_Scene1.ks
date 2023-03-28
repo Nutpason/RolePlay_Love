@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/bgimage/91328b5c5840cfa7ecae21686510594c8b929fc9_2_1035x612.png"  ]
+[preload  storage="./data/bgimage/330498471_876195630381319_8249405723314210133_n.png"  ]
+[preload  storage="./data/fgimage/chara/6/นานะ_1.png"  ]
+[return]

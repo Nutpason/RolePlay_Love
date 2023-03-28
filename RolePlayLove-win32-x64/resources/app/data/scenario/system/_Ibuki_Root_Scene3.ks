@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/12707971_p1_master1200.jpg"  ]
+[preload  storage="./data/fgimage/chara/3/ชิโรเอะ_3.png"  ]
+[preload  storage="./data/fgimage/chara/2/ตัวเอก.png"  ]
+[preload  storage="./data/fgimage/chara/2/ตัวเอก2.png"  ]
+[preload  storage="./data/fgimage/chara/3/ชิโรเอะ_2.png"  ]
+[preload  storage="./data/fgimage/chara/1/Dark_end2.png"  ]
+[preload  storage="./data/bgimage/A_black_image.jpg"  ]
+[return]

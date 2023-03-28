@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/12341534_p0_master1200.jpg"  ]
+[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/fgimage/chara/2/ตัวเอก.png"  ]
+[preload  storage="./data/fgimage/chara/4/yuki_2.png"  ]
+[preload  storage="./data/fgimage/chara/4/yuki_1.png"  ]
+[return]
